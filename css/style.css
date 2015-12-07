@@ -7,6 +7,17 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600,600italic,700,700italic,800,800italic);
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900);
 
+@font-face {
+  font-family: 'Open Sans Light';
+  src: url('../fonts/OpenSans/Light/OpenSans-Light.eot');
+  src: url('../fonts/OpenSans/Light/OpenSans-Light.eot?#iefix') format('embedded-opentype'), 
+        url('../fonts/OpenSans/Light/OpenSans-Light.woff') format('woff'), 
+        url('../fonts/OpenSans/Light/OpenSans-Light.ttf') format('truetype'), 
+        url('../fonts/OpenSans/Light/OpenSans-Light.svg#OpenSansLight') format('svg');
+  font-weight: 100;
+  font-style: normal;
+}
+
 /*
 * BASIC
   - General Style    
@@ -1801,6 +1812,24 @@ form label.error {
             -o-transition: all 0.3s ease 0s;
             -moz-transition: all 0.3s ease 0s;
             -webkit-transition: all 0.3s ease 0s;
+        }
+
+        .logo span {
+            font-family: 'Open Sans Light';    
+            color: #FFF;
+            position: absolute;
+            left: 115px;
+            font-size: 2em;
+            top: 8px;
+    /*
+            width: 180px;
+            display: block;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            transition: all 0.3s ease 0s;
+            -o-transition: all 0.3s ease 0s;
+            -moz-transition: all 0.3s ease 0s;
+            -webkit-transition: all 0.3s ease 0s;*/
         }
 
 

@@ -58,6 +58,7 @@
 
                               </svg>
                             </div>
+                            <span>Screenplify</span>
                         </a>
                     </div>
                     <!-- End Logo -->
@@ -362,8 +363,8 @@
             <!-- Statement1 Section -->
             <section id="Statement1" class="section-padding bg-image overlay-dark dark-bg text-center" data-stellar-background-ratio="0.5" data-background-img="img/full/stockphoto_retail2_dimmed.jpg">
                 <div class="container">
-                    <p class="max-width-700 lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium totam aperiam.</p>
-                    <a class="btn btn-md btn-color">Download</a>
+                    <h1 class="max-width-700 lead">Digital Signage Made Easy</h1>
+                    <!-- <a class="btn btn-md btn-color">Download</a> -->
                 </div>
             </section>
             <!-- End Statement1 Section -->
@@ -676,13 +677,16 @@
                                     <img src="img/3d-boxes.png" alt="" />
                                 </div>
                                 <div class="col-md-5 col-md-offset-1">
-                                    <h4 class="content-title">Project name & Title</h4>
-                                    <p>Cras dapibus Vivamus elementum semper nisi Aenean vulputate eleifend tellus Aenean leo ligula, porttitor eu consequat vitae Phasellus viverra nulla ut metus varius laoreet.</p>
-                                    <ul class="list-inside">
+                                    <h4 class="content-title">Simple software, powerful hardware.</h4>
+                                    <!-- <p>Digital Signage Manager powered by Intel’s NUC and Compute Sticks.</p> -->
+                                    <p>Screenplify's software is powered by Intel's NUC and Compute Sticks. 
+                                    <br>These high-performance Intel hardware is the bridge between Screenplify and your media screens. 
+                                    <br>Just plug-in the NUC/Compute Stick to your display, and let Screenplify do the rest.</p>
+                                    <!-- <ul class="list-inside">
                                         <li>Branding Design</li>
                                         <li>Web Design</li>
-                                    </ul>
-                                    <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Visit Site <i class="fa fa-external-link right"></i></a> -->
+                                    </ul> -->
+                                    <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Hardware Specs <i class="fa fa-external-link right"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -691,12 +695,13 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-5 mb-sm-30">
-                                    <h4 class="content-title">Project name & Title</h4>
-                                    <p>Cras dapibus Vivamus elementum semper nisi Aenean vulputate eleifend tellus Aenean leo ligula, porttitor eu consequat vitae Phasellus viverra nulla ut metus varius laoreet.</p>
-                                    <ul class="list-inside">
+                                    <h4 class="content-title">Maximum impact, minimal effort.</h4>
+                                    <p>Screenplify's brilliant features and functionalities are all aimed at one thing: making digital signage a breeze!</p>
+                                    <p>Anything and everything related to Digital Signage can be easily configured according to your preference, from scheduling the content to be displayed down to toggling your display's interactivity setting.</p>
+                                    <!-- <ul class="list-inside">
                                         <li>Fully Responsive</li>
                                         <li>Web Design</li>
-                                    </ul>
+                                    </ul> -->
                                     <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Visit Site <i class="fa fa-external-link right"></i></a> -->
                                 </div>
                                 <div class="col-md-6 col-md-offset-1">
@@ -727,7 +732,7 @@
             <!-- End Latest Work Section-->
 
             <!-- Action Box Section -->
-            <section id="action-box2" class="action-box action-black">
+            <!-- <section id="action-box2" class="action-box action-black">
                 <div class="container">
                     <div class="row action-box-left">
                         <h4 class="action-box-title">Powerfull Onepage Multipurpose Responsive Template ?</h4>
@@ -736,7 +741,7 @@
                         <a class="btn btn-md btn-color" href="http://google.com/" target="_blank">See More</a>
                     </div>
                 </div>
-            </section>
+            </section> -->
             <!-- Action Box Section -->
 
             <!-- Service Section -->
@@ -754,22 +759,22 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-6 pt-30 pt-sm-0">
                             <div class="content-box right wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                                <div class="icon-right"><i class="icon icon-basic-display"></i></div>
+                                <div class="icon-right"><i class="icon icon-basic-star"></i></div>
                                 <h5 class="features-title">Easy to use</h5>
                                 <p>Create eye-catching layouts, set scheduled content, and curate media playlists with our straighforward, intuitive interface.</p>
                             </div>
                             <div class="content-box right wow fadeIn" data-wow-delay="0.2s" data-wow-duration="4s">
-                                <div class="icon-right"><i class="icon icon-music-play-button"></i></div>
+                                <div class="icon-right"><i class="icon icon-basic-picture"></i></div>
                                 <h5 class="features-title">Design Templates</h5>
                                 <p>Ran out of design ideas? Create layouts by selecting a design from a list of our creative templates.</p>
                             </div>
                             <div class="content-box right wow fadeIn" data-wow-delay="0.2s" data-wow-duration="6s">
-                                <div class="icon-right"><i class="icon icon-basic-eye"></i></div>
+                                <div class="icon-right"><i class="icon icon-basic-pencil-ruler-pen"></i></div>
                                 <h5 class="features-title">Advanced Editor</h5>
                                 <p>Resize, reposition, and configure images, messages and other media to your heart's desire with our brilliant layout editor.</p>
                             </div>
                             <div class="content-box right wow fadeIn" data-wow-delay="0.2s" data-wow-duration="8s">
-                                <div class="icon-right"><i class="icon icon-basic-webpage-multiple"></i></div>
+                                <div class="icon-right"><i class="icon icon-music-play-button"></i></div>
                                 <h5 class="features-title">Multimedia support</h5>
                                 <p>Supports an extensive list of file extensions to display images, videos, maps, and directories. Also supports RSS feeds (both online and offline).</p>
                             </div>
@@ -779,22 +784,22 @@
                         </div>
                         <div class="col-md-4 col-sm-6 pt-30 pt-sm-0">
                             <div class="content-box left wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                                <div class="icon-left"><i class="icon icon-basic-gear"></i></div>
+                                <div class="icon-left"><i class="icon icon-basic-clock"></i></div>
                                 <h5 class="features-title">Display syncing</h5>
                                 <p>Multiple screens can be set to display duplicate layouts with synchronized content transitions and behaviour.</p>
                             </div>
                             <div class="content-box left wow fadeIn" data-wow-delay="0.4s" data-wow-duration="2s">
-                                <div class="icon-left"><i class="icon icon-basic-cards-diamonds"></i></div>
+                                <div class="icon-left"><i class="icon icon-basic-webpage-multiple"></i></div>
                                 <h5 class="features-title">Display flexibility</h5>
                                 <p>Set your display dimensions and Screenplify seamlessly works with any screen resolution and aspect ratio.</p>
                             </div>
                             <div class="content-box left wow fadeIn" data-wow-delay="0.6s" data-wow-duration="2s">
-                                <div class="icon-left"><i class="icon icon-basic-sheet"></i></div>
+                                <div class="icon-left"><i class="icon icon-basic-lock"></i></div>
                                 <h5 class="features-title">Reliable</h5>
                                 <p>Screenplify runs on customized Linux OS for unmatched system stability and robust performance.</p>
                             </div>
                             <div class="content-box left wow fadeIn" data-wow-delay="0.8s" data-wow-duration="2s">
-                                <div class="icon-left"><i class="icon icon-basic-headset"></i></div>
+                                <div class="icon-left"><i class="icon icon-basic-gear"></i></div>
                                 <h5 class="features-title">Extensible</h5>
                                 <p>Our exstensible platform allows for integeration with custom-made plugins and modules.</p>
                             </div>

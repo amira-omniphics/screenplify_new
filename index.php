@@ -673,7 +673,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 mb-sm-30">
-                                    <img src="img/3d-boxes.jpg" alt="" />
+                                    <img src="img/3d-boxes.png" alt="" />
                                 </div>
                                 <div class="col-md-5 col-md-offset-1">
                                     <h4 class="content-title">Project name & Title</h4>
@@ -700,7 +700,7 @@
                                     <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Visit Site <i class="fa fa-external-link right"></i></a> -->
                                 </div>
                                 <div class="col-md-6 col-md-offset-1">
-                                    <img src="img/features.jpg" alt="" />
+                                    <img src="img/features.png" alt="" />
                                 </div>
 
                             </div>
@@ -775,7 +775,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 hidden-sm hidden-xs text-center">
-                            <img src="img/mockup02.png" alt="" />
+                            <img src="img/features_image.png" alt="" />
                         </div>
                         <div class="col-md-4 col-sm-6 pt-30 pt-sm-0">
                             <div class="content-box left wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">

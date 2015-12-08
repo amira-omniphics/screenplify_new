@@ -742,7 +742,7 @@
                   <div class="row">
                       <div class="col-md-5 mb-sm-30">
                           <h4 class="content-title">Deployed Nationwide</h4> 
-                          <p>The word on quality products spreads quick, and Screenplify currently powers Digital Signage in:</p>
+                          <p>The word on quality products spreads quick, and Screenplify currently powers Digital Signage Screens in:</p>
                           <ul> 
                             <li>Kuala Lumpur, Wilayah Perseketuan</li>
                             <li>Putrajaya, Wilayah Perseketuan</li>
@@ -751,6 +751,7 @@
                             <li>Bangsar, Selangor</li>
                             <li>Bukit Mertajah, Penang</li>
                             <li>Pelangi Indah, Johor</li>
+                            <li>... and many more exciting projects in the pipeline</li>
                           </ul>
                       </div>
                       <div class="col-md-6 col-md-offset-1">

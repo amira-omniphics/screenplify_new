@@ -751,7 +751,7 @@
                             <li>Bangsar, Selangor</li>
                             <li>Bukit Mertajah, Penang</li>
                             <li>Pelangi Indah, Johor</li>
-                            <li>... and many more exciting projects in the pipeline</li>
+                            <li style="list-style: none;margin-top: 10px;">... and many more exciting projects in the pipeline</li>
                           </ul>
                       </div>
                       <div class="col-md-6 col-md-offset-1">

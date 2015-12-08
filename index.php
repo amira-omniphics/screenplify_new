@@ -735,18 +735,32 @@
             </section>
             <!-- End Latest Work Section-->
 
-            <!-- Action Box Section -->
-            <!-- <section id="action-box2" class="action-box action-black">
+
+            <!-- Statement2 Section -->
+            <section id="Statement2" class="section-padding bg-image overlay-dark dark-bg" data-stellar-background-ratio="0.5" data-background-img="img/full/kuala_lumpur.png">
                 <div class="container">
-                    <div class="row action-box-left">
-                        <h4 class="action-box-title">Powerfull Onepage Multipurpose Responsive Template ?</h4>
-                    </div>
-                    <div class="action-box-right">
-                        <a class="btn btn-md btn-color" href="http://google.com/" target="_blank">See More</a>
-                    </div>
+                  <div class="row">
+                      <div class="col-md-5 mb-sm-30">
+                          <h4 class="content-title">Deployed Nationwide</h4> 
+                          <p>The word on quality products spreads quick, and Screenplify currently powers Digital Signage in:</p>
+                          <ul> 
+                            <li>Kuala Lumpur, Wilayah Perseketuan</li>
+                            <li>Putrajaya, Wilayah Perseketuan</li>
+                            <li>Bukit Jalil, Wilayah Perseketuan</li>
+                            <li>Subang Jaya, Selangor</li>
+                            <li>Bangsar, Selangor</li>
+                            <li>Bukit Mertajah, Penang</li>
+                            <li>Pelangi Indah, Johor</li>
+                          </ul>
+                      </div>
+                      <div class="col-md-6 col-md-offset-1">
+                          <img src="img/malaysian_map.png" alt="" />
+                      </div>
+
+                  </div>
                 </div>
-            </section> -->
-            <!-- Action Box Section -->
+            </section>
+            <!-- End Statement2 Section -->
 
             <!-- Service Section -->
             <section id="service" class="section-padding">

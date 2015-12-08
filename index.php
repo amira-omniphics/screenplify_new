@@ -998,13 +998,25 @@
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/ioi.jpg" alt="" /></a>
+                                    <img src="img/logos/ioiproperty.png" alt="" /></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="client-logo">
+                                <a href="#">
+                                    <img src="img/logos/excelcos.png" alt="" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
                                     <img src="img/logos/bv.png" alt="" /></a>
+                            </div>
+                        </div>
+                        <div class="item">
+                            <div class="client-logo">
+                                <a href="#">
+                                    <img src="img/logos/bv2.png" alt="" /></a>
                             </div>
                         </div>
                         <div class="item">

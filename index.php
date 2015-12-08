@@ -363,7 +363,10 @@
             <!-- Statement1 Section -->
             <section id="Statement1" class="section-padding bg-image overlay-dark dark-bg text-center" data-stellar-background-ratio="0.5" data-background-img="img/full/stockphoto_retail2_dimmed.jpg">
                 <div class="container">
-                    <h1 class="max-width-700 lead">Digital Signage Made Easy</h1>
+                    <img src="img/logo_white.svg" alt="" style="max-height: 70px;margin-bottom: 20px;" />
+                    <h1 class="max-width-700 lead" style="font-family:'Open Sans Light';">Digital Signage Made Easy</h1>
+                    <h5>Engage your audience with eye-catching displays for advertising or information purposes</h5>
+                    <!-- <p>viewneo allows you to easily post pictures, texts, or videos on any kind of screen. For your own advertisment or as a digital signage information screen.</p> -->
                     <!-- <a class="btn btn-md btn-color">Download</a> -->
                 </div>
             </section>
@@ -679,9 +682,9 @@
                                 <div class="col-md-5 col-md-offset-1">
                                     <h4 class="content-title">Simple software, powerful hardware.</h4>
                                     <!-- <p>Digital Signage Manager powered by Intel’s NUC and Compute Sticks.</p> -->
-                                    <p>Screenplify's software is powered by Intel's NUC and Compute Sticks. 
-                                    <br>These high-performance Intel hardware is the bridge between Screenplify and your media screens. 
-                                    <br>Just plug-in the NUC/Compute Stick to your display, and let Screenplify do the rest.</p>
+                                    <p>Screenplify's software is powered by Intel's NUC and Compute Sticks.</p>
+                                    <p>These high-performance Intel hardware bridges Screenplify and your media screens. Have your
+                                    digital displays all set up by simply plug-in the NUC/Compute Stick, and let Screenplify do the rest.</p>
                                     <!-- <ul class="list-inside">
                                         <li>Branding Design</li>
                                         <li>Web Design</li>
@@ -697,7 +700,7 @@
                                 <div class="col-md-5 mb-sm-30">
                                     <h4 class="content-title">Maximum impact, minimal effort.</h4>
                                     <p>Screenplify's brilliant features and functionalities are all aimed at one thing: making digital signage a breeze!</p>
-                                    <p>Anything and everything related to Digital Signage can be easily configured according to your preference, from scheduling the content to be displayed down to toggling your display's interactivity setting.</p>
+                                    <p>Anything and everything related to Digital Signage can be easily configured according to your preference, from scheduling the content to be displayed, down to toggling your display's interactivity setting.</p>
                                     <!-- <ul class="list-inside">
                                         <li>Fully Responsive</li>
                                         <li>Web Design</li>
@@ -715,12 +718,13 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 mb-sm-30">
-                                    <img src="img/monitors.png" alt="" />
+                                    <img src="img/displays.png" alt="" />
                                 </div>
                                 <div class="col-md-5 col-md-offset-1">
-                                    <h4 class="content-title">Fully Responsive</h4>
-                                    <p>Cras dapibus Vivamus elementum semper nisi Aenean vulputate eleifend tellus Aenean leo ligula, porttitor eu consequat vitae Phasellus viverra nulla ut metus varius laoreet.</p>
-                                    <p>porttitor eu consequat vitae Phasellus viverra nulla ut metus varius laoreet</p>
+                                    <h4 class="content-title">For Every Display</h4>
+                                    <p>Screenplify is compatible with any HDMI compatible digital display.</p> 
+                                    <p>Without any special hardware required, Screenplify seamlessly supports
+                                    any aspect ratio, pixel matrices, orientation, and screen resolution.</p>
                                     <div class="spacer-15"></div>
                                     <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Visit Site <i class="fa fa-external-link right"></i></a> -->
                                 </div>

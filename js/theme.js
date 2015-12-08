@@ -442,7 +442,7 @@
 
         // Content Carousel
         $('.content-carousel').owlCarousel({
-            autoPlay: true,
+            autoPlay: 8000,
             autoHeight: true,
             stopOnHover: true,
             singleItem: true,

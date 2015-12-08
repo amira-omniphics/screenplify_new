@@ -1322,7 +1322,7 @@
             <section id="contact-us" class="section-padding dark-bg bg-image overlay-dark60" data-background-img="img/full/20.jpg" data-stellar-background-ratio="0.5">
                 <div class="container">
                     <div class="row text-center">
-                        <h6 class="page-title-alt color mb-15">Wanna say hello? </h6>
+                        <h6 class="page-title-alt color mb-15">Have any questions? </h6>
                         <h2 class="page-title">Get In <span class="text-light">Touch</span></h2>
                     </div>
                     <div class="row">

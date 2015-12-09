@@ -2987,6 +2987,11 @@ ul.portfolio-btn-wraper, .portfolio-btn-wraper {
     text-align: center;
 }
 
+    .client-logo a{
+        cursor: default;
+    }
+
+
     .client-logo img {
         width: 100%;
     }

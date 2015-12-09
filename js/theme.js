@@ -430,7 +430,7 @@
         // Testimonial Carousel
         $('.testimonial-carousel').owlCarousel({
             autoPlay: true,
-            autoHeight: true,
+            autoHeight: false,
             stopOnHover: true,
             singleItem: true,
             slideSpeed: 350,

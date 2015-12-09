@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
-    <title>Complete Digital Signage Solution - Screenplify </title>
+    <title>Screenplify - Complete Digital Signage Solution</title>
     <meta name="description" content="" />
     <meta name="keywords" content="creative, portfolio, template, theme, designed, html5, css3, responsive, mazel, onepage" />
     <meta name="author" content="nileforest">
@@ -969,7 +969,7 @@
                         <div class="item">
                             <div class="testimonial text-center max-width-700">
                                 <div class="page-icon-sm"><i class="fa fa-quote-right"></i></div>
-                                <p class="lead">The Global Startup Youth used the OunchKiosks to share important information about the event with the participants and mentors. The kiosks were a pleasure to use and the team was very efficient in making updates and changes to the kiosks in a timely manner. We see it as a more ‘green’ solution at events and programs that facilitates intelligent information sharing inline with today’s technology.</p>
+                                <p class="lead">The Global Startup Youth used the OunchKiosks to share important information about the event with the participants and mentors. The kiosks were a pleasure to use and the team was very efficient in making updates and changes to the kiosks in a timely manner. We see it as a more 'green' solution at events and programs that facilitates intelligent information sharing inline with today's technology.</p>
                                 <h6 class="quote-author">Vani Dhakshinamoorthy<span style="font-weight: 400;"> Program Director of Global Startup Youth</span></h6>
                             </div>
                         </div>

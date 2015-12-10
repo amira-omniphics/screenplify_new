@@ -4,9 +4,9 @@
 <head>
     <meta charset="utf-8" />
     <title>Screenplify - Complete Digital Signage Solution</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="creative, portfolio, template, theme, designed, html5, css3, responsive, mazel, onepage" />
-    <meta name="author" content="nileforest">
+    <meta name="description" content="A feature-filled, complete solution for digital signage creation, from design up to deployment.">
+    <meta name="keywords" content="digital, signage, software, display, screen, content, manager, analytics" />
+    <meta name="author" content="amirag">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
@@ -1421,17 +1421,9 @@
             <footer id="footer" class="footer section-padding gray-bg">
                 <div class="container text-center">
 
-                    <!--Footer Logo-->
-                   <!--  <div class="footer-logo mb-25 wow fadeInUp" data-wow-duration="1.5s">
-                        <a class="scroll-top" href="#intro">
-                            <img src="img/logo-dark.png" alt="mazel" />
-                        </a>
-                    </div> -->
-                    <!--End Footer Logo-->
-
                     <!-- Copyright -->
                     <p class="copyright mb-25">
-                        &copy; 2015 <a><b>Omniphics Sdn Bhd</b></a>. All Rights Reserved.<br>
+                        &copy; 2015 <a href="http://www.omniphics.com"><b>Omniphics Sdn Bhd</b></a>. All Rights Reserved.<br>
                     </p>
                     <!-- Copyright -->
 

@@ -3,6 +3,16 @@
 <html lang="en">
 <head>
     <meta charset="utf-8" />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-64759747-2', 'auto');
+      ga('send', 'pageview');
+
+    </script>
     <title>Screenplify - Complete Digital Signage Solution</title>
     <meta name="description" content="A feature-filled, complete solution for digital signage creation, from design up to deployment.">
     <meta name="keywords" content="digital, signage, software, display, screen, content, manager, analytics" />

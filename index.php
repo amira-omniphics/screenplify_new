@@ -15,7 +15,7 @@
     </script>
     <title>Screenplify - Complete Digital Signage Solution</title>
     <meta name="description" content="A feature-filled, complete solution for digital signage creation, from design up to deployment.">
-    <meta name="keywords" content="digital, signage, software, display, screen, content, manager, analytics" />
+    <meta name="keywords" content="digital, signage, software, display, screen, interactive, kiosk, analytics, touchscreen, Malaysia" />
     <meta name="author" content="amirag">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
@@ -82,7 +82,7 @@
                     <!-- Navigation Menu -->
                     <div class="nav-menu singlepage-nav">
                         <ul class="nav-menu-inner">
-                            <li><a href="#intro">Home1</a></li>
+                            <li><a href="#intro">Home</a></li>
                             <li><a href="#about">What we do</a></li>
                             <!-- <li><a href="#latest-work">Work</a></li> -->
                             <li><a href="#service">Features</a></li>
@@ -102,25 +102,8 @@
                             <!-- SLIDE  -->
                             <li class="dark-bg" data-transition="fade" data-slotamount="5" data-masterspeed="700">
                                 <!-- MAIN IMAGE -->
-                                <img src="img/full/stockphoto_screens_dimmed.jpg" alt="slidebg1" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
+                                <img src="img/full/stockphoto_screens_dimmed.jpg" alt="digital screens" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
 
-                                <!-- LAYER NR. 1 -->
-                               <!--  <div class="tp-caption lfb ltt tp-resizeme"
-                                    data-x="center" data-hoffset="0"
-                                    data-y="center" data-voffset="-125"
-                                    data-speed="600"
-                                    data-start="500"
-                                    data-easing="Power4.easeOut"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-elementdelay="0.01"
-                                    data-endelementdelay="0.1"
-                                    data-endspeed="500"
-                                    data-endeasing="Power4.easeIn"
-                                    style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    <img src="img/t-logo1.png" alt="logo" />
-
-                                </div> -->
 
                                 <!-- LAYER NR. 2 -->
                                 <h2 class="tp-caption lfb ltt tp-resizeme sc-title"
@@ -177,25 +160,8 @@
                             <!-- SLIDE  -->
                             <li class="dark-bg" data-transition="fade" data-slotamount="5" data-masterspeed="700">
                                 <!-- MAIN IMAGE -->
-                                <img src="img/full/stockphoto_mall_dimmed.jpg" alt="slidebg2" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
+                                <img src="img/full/stockphoto_mall_dimmed.jpg" alt="indoors digital signage" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
 
-                                <!-- LAYER NR. 1 -->
-                               <!--  <div class="tp-caption lfb ltt tp-resizeme"
-                                    data-x="center" data-hoffset="0"
-                                    data-y="center" data-voffset="-125"
-                                    data-speed="600"
-                                    data-start="500"
-                                    data-easing="Power4.easeOut"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-elementdelay="0.01"
-                                    data-endelementdelay="0.1"
-                                    data-endspeed="500"
-                                    data-endeasing="Power4.easeIn"
-                                    style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    <img src="img/t-logo1.png" alt="logo" />
-
-                                </div> -->
 
                                 <!-- LAYER NR. 2 -->
                                 <h2 class="tp-caption lfb ltt tp-resizeme sc-title"
@@ -252,25 +218,8 @@
                             <!-- SLIDE  -->
                             <li class="dark-bg" data-transition="fade" data-slotamount="5" data-masterspeed="700">
                                 <!-- MAIN IMAGE -->
-                                <img src="img/full/stockphoto_airportscreen_dimmed.jpg" alt="slidebg3" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
+                                <img src="img/full/stockphoto_airportscreen_dimmed.jpg" alt="outdoors digital signage" data-bgfit="cover" data-bgposition="top center" data-bgrepeat="no-repeat">
 
-                                <!-- LAYER NR. 1 -->
-                                <!-- <div class="tp-caption lfb ltt tp-resizeme"
-                                    data-x="center" data-hoffset="0"
-                                    data-y="center" data-voffset="-125"
-                                    data-speed="600"
-                                    data-start="500"
-                                    data-easing="Power4.easeOut"
-                                    data-splitin="none"
-                                    data-splitout="none"
-                                    data-elementdelay="0.01"
-                                    data-endelementdelay="0.1"
-                                    data-endspeed="500"
-                                    data-endeasing="Power4.easeIn"
-                                    style="z-index: 2; max-width: auto; max-height: auto; white-space: nowrap;">
-                                    <img src="img/t-logo1.png" alt="logo" />
-
-                                </div> -->
 
                                 <!-- LAYER NR. 2 -->
                                 <h2 class="tp-caption lfb ltt tp-resizeme sc-title"
@@ -337,9 +286,9 @@
             <!-- About Section -->
             <section id="about" class="section-padding text-center">
                 <div class="container mb-60">
-                    <h2>Design<span class="text-light"> to Deployment</span></h2>
+                    <h1>Design<span class="text-light"> to Deployment</span></h1>
                     <p class="max-width-700 lead">Creating screen layouts will no longer be a daunting task and you will love what you no longer have to do.
-                    We make it easy for your content layout designs go from your idea board to your real screens without you having to rely on others.
+                    We make it easy for your content layout designs go from your idea board to your digital screens without you having to rely on others.
                     That's how pleaslantly simple our user interface and creation workflow is!</p>
                 </div>
 
@@ -348,7 +297,7 @@
                         <div class="col-md-3 col-sm-5 col-xs-12 content-box mb-sm-30 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
                             <div class="icon-top"><i class="icon icon-basic-pencil-ruler"></i></div>
                             <h5 class="features-title">Content Editor</h5>
-                            <p>Design vibrant and dynamic, interactive/non-interactive displays for your screens with our intuitive content manager.</p>
+                            <p>Design vibrant and dynamic, interactive/non-interactive displays for your digital screens with our intuitive content manager.</p>
                         </div>
                         <div class="col-md-3 col-sm-5 col-xs-12 content-box mb-sm-30 wow fadeIn" data-wow-delay="0.4s" data-wow-duration="2s">
                             <div class="icon-top"><i class="icon icon-basic-cloud"></i></div>
@@ -376,306 +325,9 @@
                     <img src="img/logo_white.svg" alt="" style="max-height: 70px;margin-bottom: 20px;" />
                     <h1 class="max-width-700 lead" style="font-family:'Open Sans Light';">Digital Signage Made Easy</h1>
                     <h5>Engage your audience with eye-catching displays for advertising or information purposes</h5>
-                    <!-- <p>viewneo allows you to easily post pictures, texts, or videos on any kind of screen. For your own advertisment or as a digital signage information screen.</p> -->
-                    <!-- <a class="btn btn-md btn-color">Download</a> -->
                 </div>
             </section>
             <!-- End Statement1 Section -->
-
-            <!-- Team Section -->
-
-            <?php /*
-            <section id="team-people" class="section-padding text-center">
-                <div class="container">
-                    <h2 class="page-title">Our <span class="text-light">Team</span></h2>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <!--Team Carousel -->
-                        <div class="owl-carousel team-carousel nf-carousel-theme">
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/01.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>Mitchell KAPPOS</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>Mitchell KAPPOS</h6>
-                                        <p class="">( Graphic Designer )</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/03.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>Leonardo da Vinci</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>Leonardo da Vinci</h6>
-                                        <p class="">( Front-End Dev )</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/07.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>John Doe</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>John Doe</h6>
-                                        <p class="">( Project Manager )</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/04.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>Michael Lee</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>Michael Lee</h6>
-                                        <p class="">( Web Developer )</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/02.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>Michael Lee</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>Michael Lee</h6>
-                                        <p class="">Photographer</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                            <div class="item">
-                                <div class="team-item">
-                                    <div class="team-item-img">
-                                        <img src="img/team/06.jpg" alt="" />
-                                        <div class="team-item-detail">
-                                            <div class="team-item-detail-inner light-color">
-                                                <h5>Michael Lee</h5>
-                                                <p>To portal for some of the world's most high-value net.</p>
-                                                <ul class="social">
-                                                    <li><a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                                    <li><a href="https://www.twitter.com/" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                                    <li><a href="https://www.dribbble.com/" target="_blank"><i class="fa fa-dribbble"></i></a></li>
-                                                    <li><a href="https://www.pinterest.com/" target="_blank"><i class="fa fa-pinterest"></i></a></li>
-                                                    <li><a href="https://www.behance.net/" target="_blank"><i class="fa fa-behance"></i></a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="team-item-info">
-                                        <h6>Michael Lee</h6>
-                                        <p class="">Photographer</p>
-                                    </div>
-                                </div>
-                            </div>
-
-                        </div>
-                        <!--End Team Carousel --->
-                    </div>
-                </div>
-            </section> */ ?>
-            <!-- End Team Section -->
-
-            <hr />
-
-            <!-- Accordian & Skills Section-->
-            <?php /*
-            <section id="accordian_skills" class="section-padding">
-                <div class="container text-center">
-                    <h2 class="page-title">Skills <span class="text-light">&</span> History</h2>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <!-- Accordian -->
-                        <div class="col-md-6 col-sm-6 mb-sm-30">
-                            <div class="accordion">
-                                <div class="accordion-title">
-                                    <a href="">Jan 14, 2008 (Opening)</a>
-                                </div>
-                                <div class="accordion-content">
-                                    Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem eum fugiat quo.
-                                </div>
-                                <div class="accordion-title">
-                                    <a href="">FEB 18, 2011 (The best company of the year)</a>
-                                </div>
-                                <div class="accordion-content">
-                                    Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem eum fugiat quo.
-                                </div>
-                                <div class="accordion-title">
-                                    <a href="">APR 6, 2013 (Opening </a>
-                                </div>
-                                <div class="accordion-content">
-                                    Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum qui dolorem eum fugiat quo.
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Accordian -->
-
-                        <!-- Skills -->
-                        <div class="col-md-6 col-sm-6">
-                            <div class="skillbar" data-percent="55%">
-                                <h6 class="skillbar-title">Design</h6>
-                                <div class="skill-bar-percent">55%</div>
-                                <div class="skillbar-bar">
-                                    <div class="skillbar-bar-child"></div>
-                                </div>
-                            </div>
-
-                            <div class="skillbar" data-percent="80%">
-                                <h6 class="skillbar-title">Development</h6>
-                                <div class="skill-bar-percent">80%</div>
-                                <div class="skillbar-bar">
-                                    <div class="skillbar-bar-child"></div>
-                                </div>
-                            </div>
-
-                            <div class="skillbar" data-percent="40%">
-                                <h6 class="skillbar-title">Photography</h6>
-                                <div class="skill-bar-percent">40%</div>
-                                <div class="skillbar-bar">
-                                    <div class="skillbar-bar-child"></div>
-                                </div>
-                            </div>
-
-                            <div class="skillbar" data-percent="70%">
-                                <h6 class="skillbar-title">Branding</h6>
-                                <div class="skill-bar-percent">70%</div>
-                                <div class="skillbar-bar">
-                                    <div class="skillbar-bar-child"></div>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- End Skills -->
-                    </div>
-                </div>
-            </section> */ ?>
-            <!-- End Accordian & Skills Section-->
-
-            <!-- Work Process Section -->
-            <?php /*
-            <section id="process" class="section-padding">
-                <div class="container text-center">
-                    <h2 class="page-title">Work <span class="text-light">Process</span></h2>
-                </div>
-                <div class="container text-center">
-                    <div class="row">
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step1 - Skype Interview" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-basic-headset"></i></div>
-                                <h6>Interview</h6>
-                            </div>
-                        </div>
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="0.4s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step2 - Project Plan" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-basic-book-pencil"></i></div>
-                                <h6>Plan</h6>
-                            </div>
-                        </div>
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="0.6s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step3 - Design" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-basic-picture-multiple"></i></div>
-                                <h6>Design</h6>
-                            </div>
-                        </div>
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="0.8s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step4 - Development" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-basic-gear"></i></div>
-                                <h6>Development</h6>
-                            </div>
-                        </div>
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="1s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step5 - Testing" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-ecommerce-graph3"></i></div>
-                                <h6>Testing</h6>
-                            </div>
-                        </div>
-                        <div class="process-box col-md-2 col-sm-4 col-xs-6 wow fadeIn" data-wow-delay="1.2s" data-wow-duration="2s">
-                            <div class="tipped" data-title="Step6 - Delivery" data-tipper-options='{"direction":"top"}'>
-                                <div class="process-icon alt-icon-top"><i class="icon icon-basic-anticlockwise"></i></div>
-                                <h6>Delivery</h6>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section> */ ?>
-            <!-- End Work Process Section -->
-
-            <hr />
 
             <!--Latest Work Section-->
             <section id="latest-work" class="section-padding">
@@ -687,19 +339,13 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 mb-sm-30">
-                                    <img src="img/3d-boxes.png" alt="" />
+                                    <img src="img/3d-boxes.png" alt="digital signage package" />
                                 </div>
                                 <div class="col-md-5 col-md-offset-1">
                                     <h4 class="content-title">Simple software, powerful hardware.</h4>
-                                    <!-- <p>Digital Signage Manager powered by Intel’s NUC and Compute Sticks.</p> -->
                                     <p>Screenplify's software is powered by Intel's NUC and Compute Sticks.</p>
-                                    <p>These high-performance Intel hardware bridges Screenplify and your media screens. Have your
+                                    <p>These high-performance Intel hardware bridges Screenplify and your digital screens. Have your
                                     digital displays all set up by simply plug-in the NUC/Compute Stick, and let Screenplify do the rest.</p>
-                                    <!-- <ul class="list-inside">
-                                        <li>Branding Design</li>
-                                        <li>Web Design</li>
-                                    </ul> -->
-                                    <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Hardware Specs <i class="fa fa-external-link right"></i></a> -->
                                 </div>
                             </div>
                         </div>
@@ -711,14 +357,9 @@
                                     <h4 class="content-title">Maximum impact, minimal effort.</h4>
                                     <p>Screenplify's brilliant features and functionalities are all aimed at one thing: making digital signage a breeze!</p>
                                     <p>Anything and everything related to Digital Signage can be easily configured according to your preference, from scheduling the content to be displayed, down to toggling your display's interactivity setting.</p>
-                                    <!-- <ul class="list-inside">
-                                        <li>Fully Responsive</li>
-                                        <li>Web Design</li>
-                                    </ul> -->
-                                    <!-- <a target="_blank" href="http://google.com/" class="btn btn-md btn-black">Visit Site <i class="fa fa-external-link right"></i></a> -->
                                 </div>
                                 <div class="col-md-6 col-md-offset-1">
-                                    <img src="img/features.png" alt="" />
+                                    <img src="img/features.png" alt="digital signage features" />
                                 </div>
 
                             </div>
@@ -728,7 +369,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-6 mb-sm-30">
-                                    <img src="img/displays.png" alt="" />
+                                    <img src="img/displays.png" alt="digital screens, interactive kiosk, and non-interactive kiosk" />
                                 </div>
                                 <div class="col-md-5 col-md-offset-1">
                                     <h4 class="content-title">For Every Display</h4>
@@ -751,8 +392,8 @@
                 <div class="container">
                   <div class="row">
                       <div class="col-md-5 mb-sm-30">
-                          <h4 class="content-title">Deployed Nationwide</h4> 
-                          <p>The word on quality products spreads quick, and Screenplify currently powers Digital Signage Screens in:</p>
+                          <h1 class="content-title">Deployed Nationwide</h1> 
+                          <p>The word on quality products spreads quick. Screenplify currently powers Digital Signage Screens in:</p>
                           <ul> 
                             <li>Kuala Lumpur, Wilayah Perseketuan</li>
                             <li>Putrajaya, Wilayah Perseketuan</li>
@@ -765,7 +406,7 @@
                           </ul>
                       </div>
                       <div class="col-md-6 col-md-offset-1">
-                          <img src="img/malaysian_map.png" alt="" />
+                          <img src="img/malaysian_map.png" alt="digital signage Malaysia" />
                       </div>
 
                   </div>
@@ -776,7 +417,7 @@
             <!-- Service Section -->
             <section id="service" class="section-padding">
                 <div class="container mb-60 text-center">
-                    <h2>Why <span class="text-light">Choose Screenplify</span></h2>
+                    <h1>Why <span class="text-light">Choose Screenplify</span></h1>
                     <p class="max-width-700 large">Have an internet-enabled web browser? You're good to go!<br> 
                     Bring your digital signage vision into reality with minimal requirements to get started. 
                     Fine-tune your design in a matter of minutes. By eleminating the hard labour off your to-do list 
@@ -809,7 +450,7 @@
                             </div>
                         </div>
                         <div class="col-md-4 hidden-sm hidden-xs text-center">
-                            <img src="img/features_image.png" alt="" />
+                            <img src="img/features_image.png" alt="digital signage features" />
                         </div>
                         <div class="col-md-4 col-sm-6 pt-30 pt-sm-0">
                             <div class="content-box left wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
@@ -837,133 +478,6 @@
                 </div>
             </section>
             <!-- End Service Section -->
-
-            <!-- Counter Section -->
-            <?php /*
-            <section id="counter" class="section-padding bg-image overlay-dark dark-bg" data-stellar-background-ratio="0.5" data-background-img="img/full/14.jpg">
-                <div class="container text-center">
-                    <div class="row">
-                        <div class="col-md-3 col-sm-6 mb-sm-30">
-                            <div class="alt-icon-top counter-icon"><i class="icon icon-basic-cup"></i></div>
-                            <h1 class="counter-title counter-num">103</h1>
-                            <h5 class="counter-sub-title">Awwards</h5>
-                        </div>
-                        <div class="col-md-3 col-sm-6 mb-sm-30">
-                            <div class="alt-icon-top counter-icon"><i class="icon icon-basic-heart"></i></div>
-                            <h1 class="counter-title counter-num">256</h1>
-                            <h5 class="counter-sub-title">client</h5>
-                        </div>
-                        <div class="col-md-3 col-sm-6 mb-sm-30">
-                            <div class="alt-icon-top counter-icon"><i class="icon icon-basic-case"></i></div>
-                            <h1 class="counter-title counter-num">148</h1>
-                            <h5 class="counter-sub-title">Project</h5>
-                        </div>
-                        <div class="col-md-3 col-sm-6 mb-sm-30">
-                            <div class="alt-icon-top counter-icon"><i class="icon icon-basic-lightbulb"></i></div>
-                            <h1 class="counter-title counter-num">23</h1>
-                            <h5 class="counter-sub-title">Team</h5>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- End Counter Section -->
-
-            <!-- Pricing Table -->
-            <section id="pricing" class="section-padding">
-                <div class="container text-center">
-                    <h2 class="page-title">Pricing <span class="text-light">Table</span></h2>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-4 mb-sm-30 wow fadeIn" data-wow-delay="0.2s" data-wow-duration="2s">
-                            <div class="pricing-box">
-                                <div class="pricing-title pricing-padding-t">
-                                    <h4>Regular</h4>
-                                </div>
-                                <div class="pricing-price pricing-padding">
-                                    <p><span class="dollar">$</span><span class="pricing-price-lg">49</span><span class="pricing-price-sm">/ month</span></p>
-                                </div>
-                                <div class="pricing-features">
-                                    <ul>
-                                        <li>Full Access</li>
-                                        <li>1 Domain <strong>Free</strong></li>
-                                        <li>Source Files</li>
-                                        <li><strong>50 User Accounts</strong></li>
-                                        <li>6 Month License</li>
-                                        <li>Premium Support</li>
-                                    </ul>
-                                </div>
-                                <div class="pricing-button pricing-padding">
-                                    <a class="btn btn-md btn-black" href="http://google.com/" target="_blank"><i class="fa fa-user left"></i>Sign Up</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 mb-sm-30 wow fadeIn" data-wow-delay="0.4s" data-wow-duration="2s">
-                            <div class="pricing-box highlight">
-                                <div class="pricing-title pricing-padding-t">
-                                    <h4>Standard</h4>
-                                </div>
-                                <div class="pricing-price pricing-padding">
-                                    <p><span class="dollar">$</span><span class="pricing-price-lg color">99</span><span class="pricing-price-sm">/ month</span></p>
-                                </div>
-                                <div class="pricing-features">
-                                    <ul>
-                                        <li>Full Access</li>
-                                        <li>10 Domain <strong>Free</strong></li>
-                                        <li>Source Files</li>
-                                        <li><strong>500 User Accounts</strong></li>
-                                        <li>6 Month License</li>
-                                        <li>Premium Support</li>
-                                    </ul>
-                                </div>
-                                <div class="pricing-button pricing-padding">
-                                    <a class="btn btn-md btn-color" href="http://google.com/" target="_blank"><i class="fa fa-user left"></i>Sign Up</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-md-4 mb-sm-30 wow fadeIn" data-wow-delay="0.6s" data-wow-duration="2s">
-                            <div class="pricing-box">
-                                <div class="pricing-title pricing-padding-t">
-                                    <h4>Advanced</h4>
-                                </div>
-                                <div class="pricing-price pricing-padding">
-                                    <p><span class="dollar">$</span><span class="pricing-price-lg">199</span><span class="pricing-price-sm">/ month</span></p>
-                                </div>
-                                <div class="pricing-features">
-                                    <ul>
-                                        <li>Full Access</li>
-                                        <li>100 Domain <strong>Free</strong></li>
-                                        <li>Source Files</li>
-                                        <li><strong>5000 User Accounts</strong></li>
-                                        <li>6 Month License</li>
-                                        <li>Free Support</li>
-                                    </ul>
-                                </div>
-                                <div class="pricing-button pricing-padding">
-                                    <a class="btn btn-md btn-black" href="http://google.com/" target="_blank"><i class="fa fa-user left"></i>Sign Up</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-            <!-- End Pricing Table -->
-
-            <!-- video Section -->
-            
-            <section id="video-action" class="section-padding bg-image overlay-dark dark-bg" data-stellar-background-ratio="0.5" data-background-img="img/full/02.jpg">
-                <div class="container text-center">
-                    <div class="page-icon">
-                        <a class="video-popup white" href="https://www.youtube.com/watch?v=JXOXns_gx8k"><i class="icon icon-music-play-button"></i></a>
-                    </div>
-                    <p class="max-width-700 lead">
-                        We’re developing a number of special projects if interested,<br />
-                        see the promo video
-                    </p>
-                    <h6 class="page-title-alt color mb-0">See Watch Video</h6>
-                </div>
-            </section> */ ?>
-            <!-- End video Section -->
 
             <!-- Testimonials Section-->
             <section id="testimonials" class="section-padding bg-image overlay-dark dark-bg text-center" data-stellar-background-ratio="0.5" data-background-img="img/full/05.jpg">
@@ -998,116 +512,116 @@
             <!-- Client Logo -->
             <section id="client" class="section-padding">
                 <div class="container text-center">
-                    <h2 class="page-title">Happy <span class="text-light">Clients</span></h2>
+                    <h1 class="page-title">Happy <span class="text-light">Clients</span></h1>
                 </div>
                 <div class="container">
                     <div class="owl-carousel client-carousel">
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/mydin.png" alt="" /></a>
+                                    <img src="img/logos/mydin.png" alt="Digital Signage for Mydin" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/altel.png" alt="" /></a>
+                                    <img src="img/logos/altel.png" alt="Digital Signage for Altel" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/mahsing.png" alt="" /></a>
+                                    <img src="img/logos/mahsing.png" alt="Digital Signage for Mahsing" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/ioiproperty.png" alt="" /></a>
+                                    <img src="img/logos/ioiproperty.png" alt="Digital Signage for IOI Property" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/excelcos.png" alt="" /></a>
+                                    <img src="img/logos/excelcos.png" alt="Digital Signage for Excelcos" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/bv.png" alt="" /></a>
+                                    <img src="img/logos/bv.png" alt="Mall Directory for Bangsar Village" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/bv2.png" alt="" /></a>
+                                    <img src="img/logos/bv2.png" alt="Mall Directory for Bangsar Village 2" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/macy.png" alt="" /></a>
+                                    <img src="img/logos/macy.png" alt="Digital Signage for Macy" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/sunwayproperty.png" alt="" style="width:auto;height:100%;" /></a>
+                                    <img src="img/logos/sunwayproperty.png" alt="Interactive Kiosk for Sunway Property" style="width:auto;height:100%;" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/matta.png" alt="" /></a>
+                                    <img src="img/logos/matta.png" alt="Interactive Information Kiosk for MATTA fair" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/chermainepoo.png" alt="" /></a>
+                                    <img src="img/logos/chermainepoo.png" alt="Interactive Information Kiosk for Chermaine Poo" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/tedxkl.png" alt="" /></a>
+                                    <img src="img/logos/tedxkl.png" alt="Interactive Information Kiosk for TEDxKL" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/ges.png" alt="" /></a>
+                                    <img src="img/logos/ges.png" alt="Interactive Information Kiosk for GES" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/klims.png" alt="" /></a>
+                                    <img src="img/logos/klims.png" alt="Interactive Information Kiosk for KLIMS" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/homedec.png" alt="" /></a>
+                                    <img src="img/logos/homedec.png" alt="Interactive Information Kiosk for Homedec" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/itxasia.png" alt="" /></a>
+                                    <img src="img/logos/itxasia.png" alt="Digital Signage for ITXasia" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/startupmalaysia.png" alt="" /></a>
+                                    <img src="img/logos/startupmalaysia.png" alt="Digital Signage for Startup Malaysia" /></a>
                             </div>
                         </div>
                         <div class="item">
                             <div class="client-logo">
                                 <a href="#">
-                                    <img src="img/logos/tpm.png" alt="" /></a>
+                                    <img src="img/logos/tpm.png" alt="Interactive Information Kiosk for Technology Park Malaysia" /></a>
                             </div>
                         </div>
                     </div>
@@ -1117,238 +631,12 @@
 
             <hr />
 
-            <!-- Tabs & Extra Elements -->
-            <?php /*
-            <section id="elements" class="section-padding">
-                <div class="container text-center">
-                    <h2 class="page-title">Tabs <span class="text-light">&</span> Elements</h2>
-                </div>
-                <div class="container">
-
-                    <ul class="tabs-nav alt-icon-tab text-center">
-                        <li class="mb-30 active">
-                            <a href="#tab-video" data-toggle="tab">
-                                <div class="alt-icon-top"><i class="icon icon-basic-video"></i></div>
-                                <h6>Video</h6>
-                            </a>
-                        </li>
-                        <li class="mb-30">
-                            <a href="#tab-image-slider" data-toggle="tab">
-                                <div class="alt-icon-top"><i class="icon icon-basic-picture"></i></div>
-                                <h6>Image Slider</h6>
-                            </a>
-                        </li>
-                        <li class="mb-30">
-                            <a href="#tab-icon-box" data-toggle="tab">
-                                <div class="alt-icon-top"><i class="icon icon-basic-spades"></i></div>
-                                <h6>Icon Box</h6>
-                            </a>
-                        </li>
-                        <li class="mb-30">
-                            <a href="#tab-content-box" data-toggle="tab">
-                                <div class="alt-icon-top"><i class="icon icon-basic-webpage-txt"></i></div>
-                                <h6>Content Box</h6>
-                            </a>
-                        </li>
-                        <li class="mb-30">
-                            <a href="#tab-cover-box" data-toggle="tab">
-                                <div class="alt-icon-top"><i class="icon icon-basic-webpage-multiple"></i></div>
-                                <h6>Cover Box</h6>
-                            </a>
-                        </li>
-                    </ul>
-                    <div class="tabs-cont">
-                        <div id="tab-video" class="tab-pane active">
-                            <div class="row">
-                                <!--<div class="col-md-6">
-                                    <div class="media">
-                                        <iframe src="https://player.vimeo.com/video/37298913?color=ffffff&title=0&byline=0&portrait=0" frameborder="0" allowfullscreen></iframe>
-                                    </div>
-                                    </div>-->
-                                <div class="col-md-10 col-md-offset-1">
-                                    <div class="media">
-                                        <iframe src="https://www.youtube.com/embed/k9EyPfc0FXc?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab-image-slider" class="tab-pane">
-                            <div class="row">
-                                <div class="col-md-10 col-md-offset-1">
-                                    <div class="owl-carousel image-carousel nf-carousel-theme white">
-                                        <div class="item">
-                                            <img src="img/full/06.jpg" alt="" />
-                                        </div>
-                                        <div class="item">
-                                            <img src="img/full/14.jpg" alt="" />
-                                        </div>
-                                        <div class="item">
-                                            <img src="img/full/09.jpg" alt="" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab-icon-box" class="tab-pane">
-                            <div class="row">
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-left">
-                                        <div class="alt-icon-left">
-                                            <i class="icon icon-basic-cup"></i>
-                                        </div>
-                                        <h5 class="features-title">Branding Design</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-left">
-                                        <div class="alt-icon-left">
-                                            <i class="icon icon-basic-life-buoy"></i>
-                                        </div>
-                                        <h5 class="features-title">Web Design</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-right">
-                                        <div class="alt-icon-right">
-                                            <i class="icon icon-basic-lightbulb"></i>
-                                        </div>
-                                        <h5 class="features-title">App Development</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-left">
-                                        <div class="alt-icon-left">
-                                            <i class="icon icon-basic-star"></i>
-                                        </div>
-                                        <h5 class="features-title">Graphic Design</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-left">
-                                        <div class="alt-icon-left">
-                                            <i class="icon icon-ecommerce-graph1"></i>
-                                        </div>
-                                        <h5 class="features-title">Landscape Photography</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-6 col-xs-12 mb-sm-30">
-                                    <div class="content-box alt-right">
-                                        <div class="alt-icon-right">
-                                            <i class="icon icon-music-play-button"></i>
-                                        </div>
-                                        <h5 class="features-title">Photo Editing</h5>
-                                        <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum.</p>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab-content-box" class="tab-pane">
-                            <div class="container text-center">
-                                <div class="row">
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-color"><i class="icon icon-basic-accelerator"></i></div>
-                                            <h5 class="features-title">Branding Design</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-color"><i class="icon icon-basic-cup"></i></div>
-                                            <h5 class="features-title">Web Design</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-color"><i class="icon icon-basic-anchor"></i></div>
-                                            <h5 class="features-title">App Development</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-black"><i class="icon icon-basic-globe"></i></div>
-                                            <h5 class="features-title">Graphic Design</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-black"><i class="icon icon-basic-gear"></i></div>
-                                            <h5 class="features-title">Photography</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4 col-sm-6 col-xs-12 mb-30">
-                                        <div class="content-box content-box-with-bg">
-                                            <div class="icon-top icon-black"><i class="icon icon-basic-paperplane"></i></div>
-                                            <h5 class="features-title">Photo Editing</h5>
-                                            <p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur vel illum dolorem.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div id="tab-cover-box" class="tab-pane">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <div class="cover-box mb-30">
-                                            <figure class="cover-box-img">
-                                                <img src="img/portfolio/thumb/09.jpg" alt="cover-img" />
-                                            </figure>
-                                            <div class="cover-box-content">
-                                                <h5>Responsive Design</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, laboriosam maxime</p>
-                                                <a class="link">Read More <i class="fa fa-angle-right right"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="cover-box mb-30">
-                                            <figure class="cover-box-img">
-                                                <img src="img/portfolio/thumb/06.jpg" alt="cover-img" />
-                                            </figure>
-                                            <div class="cover-box-content">
-                                                <h5>App Development</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, laboriosam maxime</p>
-                                                <a class="link">Read More <i class="fa fa-angle-right right"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-4">
-                                        <div class="cover-box mb-30">
-                                            <figure class="cover-box-img">
-                                                <img src="img/portfolio/thumb/05.jpg" alt="cover-img" />
-                                            </figure>
-                                            <div class="cover-box-content">
-                                                <h5>Photography</h5>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab aut dignissimos ea est, impedit incidunt, laboriosam maxime</p>
-                                                <a class="link">Read More <i class="fa fa-angle-right right"></i></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                </div>
-            </section> */?>
-            <!-- End Tabs & Extra Elements -->
-
             <!-- Contact Form -->
             <section id="contact-us" class="section-padding dark-bg bg-image overlay-dark60" data-background-img="img/full/20.jpg" data-stellar-background-ratio="0.5">
                 <div class="container">
                     <div class="row text-center">
                         <h6 class="page-title-alt color mb-15">Have any questions? </h6>
-                        <h2 class="page-title">Get In <span class="text-light">Touch</span></h2>
+                        <h1 class="page-title">Get In <span class="text-light">Touch</span></h1>
                     </div>
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">

@@ -13,11 +13,18 @@
       ga('send', 'pageview');
 
     </script>
-    <title>Screenplify - Complete Digital Signage Solution</title>
+    
     <meta name="description" content="A feature-filled, complete solution for digital signage creation, from design up to deployment.">
     <meta name="keywords" content="digital, signage, software, display, screen, interactive, kiosk, analytics, touchscreen, Malaysia" />
     <meta name="author" content="amirag">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+
+    <meta content="Screenplify - Complete Digital Signage Solution in Malaysia" property="og:title">
+    <meta content="A feature-filled, complete solution for digital signage creation, from design up to deployment." property="og:description">
+    <meta content="http://screenplify.it/" property="og:url">
+    <link href="http://www.screenplify.it/" rel="canonical">
+
+    <title>Screenplify - Complete Digital Signage Solution in Malaysia</title>
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
     <!-- Favicone Icon -->

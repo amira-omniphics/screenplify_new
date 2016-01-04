@@ -82,7 +82,7 @@
                     <!-- Navigation Menu -->
                     <div class="nav-menu singlepage-nav">
                         <ul class="nav-menu-inner">
-                            <li><a href="#intro">Home</a></li>
+                            <li><a href="#intro">Home1</a></li>
                             <li><a href="#about">What we do</a></li>
                             <!-- <li><a href="#latest-work">Work</a></li> -->
                             <li><a href="#service">Features</a></li>
@@ -830,7 +830,7 @@
                             <div class="content-box left wow fadeIn" data-wow-delay="0.8s" data-wow-duration="2s">
                                 <div class="icon-left"><i class="icon icon-basic-gear"></i></div>
                                 <h5 class="features-title">Extensible</h5>
-                                <p>Our exstensible platform allows for integeration with custom-made plugins and modules.</p>
+                                <p>Our extensible platform allows for integration with custom-made plugins and modules.</p>
                             </div>
                         </div>
                     </div>

@@ -407,7 +407,11 @@
                             <li>Bukit Jalil, Wilayah Perseketuan</li>
                             <li>Subang Jaya, Selangor</li>
                             <li>Bangsar, Selangor</li>
+                            <li>Seremban, Negeri Sembilan</li>
+                            <li>Gong Badak, Kuala Terrengganu</li>
+                            <li>Ipoh, Perak</li>
                             <li>Bukit Mertajah, Penang</li>
+                            <li>Malacca City, Malacca</li>
                             <li>Pelangi Indah, Johor</li>
                             <li style="list-style: none;margin-top: 10px;">... and many more exciting projects in the pipeline</li>
                           </ul>
